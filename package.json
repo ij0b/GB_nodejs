@@ -4,7 +4,7 @@
   "description": "GeekBrains - Курс Node.js",
   "main": "index.js",
   "scripts": {
-    "dev": "node timer.js",
+    "dev": "node lesson3.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
