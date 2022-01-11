@@ -1,0 +1,30 @@
+{
+  "name": "gb_nodejs",
+  "version": "1.0.0",
+  "description": "GeekBrains - Курс Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lesson4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "reader": "lesson4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ij0b/GB_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ij0b/GB_nodejs/issues"
+  },
+  "homepage": "https://github.com/ij0b/GB_nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "moment": "^2.29.1",
+    "yargs": "^17.3.1"
+  }
+}
